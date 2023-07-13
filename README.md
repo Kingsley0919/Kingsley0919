@@ -1,5 +1,5 @@
 Hi there, I'm Kingsley Soo 👋
-I'm a student of Actuarial Science at Universiti Tunku Abdul Rahman Malaysia, and I'm currently learning the exciting field of Data Science. I'm passionate about using data to make informed decisions and solve complex problems.
+I'm an  Actuarial Science degree holder at Universiti Tunku Abdul Rahman Malaysia, and I'm currently learning the exciting field of Data Science. I'm passionate about using data to make informed decisions and solve complex problems.
 
 Data Science Image
 
